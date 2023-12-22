@@ -1,0 +1,7 @@
+PythonHome: /home/ubuntu/miniconda3/bin/
+EmailUser: gfap_results@163.com
+EmailPwd: COFPDFXVBXMVBCQB
+EmailHost: smtp.163.com
+EmailPort: 465
+DrawDir: /home/ubuntu/resource/
+Host: http://43.139.112.84/

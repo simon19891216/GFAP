@@ -1,0 +1,17 @@
+[Unit]
+Description=GFAPBackend
+After=network.target network-online.target nss-lookup.target
+
+[Service]
+User=ubuntu
+Group=ubuntu
+ExecStart=/home/ubuntu/backend
+WorkingDirectory=/home/ubuntu/
+StandardOutput=inherit
+StandardError=inherit
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=3s
+
+[Install]
+WantedBy=multi-user.target
