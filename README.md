@@ -8,10 +8,10 @@
     <a href="">Desheng Gong</a><sup>1*</sup>,
   </span>
   <span class="author-block">
-    <a href=" ">Xiaojian Chen</a><sup>1*</sup>
+    <a href="https://jerry391.github.io/">Xiaojian Chen</a><sup>3*</sup>
   </span>
   <span class="author-block">
-    <a href=" ">Kangming Jin</a><sup>1</sup>
+    <a href=" ">Kangming Jin</a><sup>4</sup>
   </span>
   <span class="author-block">
     <a href=" ">Heling Jiang</a><sup>1</sup>
@@ -20,29 +20,29 @@
     <a href=" ">Wenjuan Yu</a><sup>1</sup>
   </span>
   <span class="author-block">
-    <a href=" ">Jihong Li</a><sup>1†</sup>
+    <a href=" ">Jihong Li</a><sup>5†</sup>
   </span>
   <span class="author-block">
-    <a href=" ">Jin Zhang</a><sup>1†</sup>
+    <a href=" ">Jin Zhang</a><sup>2†</sup>
   </span>
   </span>
   <span class="author-block">
-    <a href=" ">Weihua Pan</a><sup>1†</sup>
+    <a href="https://agis.caas.cn/en/research/principalinvestigator/253198.htm">Weihua Pan</a><sup>1†</sup>
   </span>
 </div>
 <div align="center">
   <span class="author-block"><sup>1</sup>
-    Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen 518120, China
+    Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences
   </span><br> 
-  <span class="author-block"><sup>2</sup>State Key Laboratory of Subtropical Silviculture, College of Forestry and Biotechnology, Zhejiang A&F University, Hangzhou, Zhejiang 311300, China</span><br> 
+  <span class="author-block"><sup>2</sup>State Key Laboratory of Subtropical Silviculture, College of Forestry and Biotechnology, Zhejiang A&F University</span><br> 
   <span class="author-block"><sup>3</sup>
-    School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University, Nanjing 210023, China
+    School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University
   </span><br> 
   <span class="author-block"><sup>4</sup>
-    State Key Laboratory of Plant Physiology and Biochemistry, College of Life Science, Zhejiang University, Hangzhou 310058, China
+    State Key Laboratory of Plant Physiology and Biochemistry, College of Life Science, Zhejiang University
   </span><br> 
   <span class="author-block"><sup>5</sup>
-    College of Forestry, Shandong Agricultural University, Tai'an, Shandong 271018, China
+    College of Forestry, Shandong Agricultural University, Tai'an
   </span><br> 
   <span class="author-block"><sup>*</sup>These authors contributed equally</a>, <sup>†</sup>Corresponding Authors </span><br> 
 </div>
@@ -101,7 +101,7 @@ pythonGFAP-linux.py
 -o The saved folder (if the previous one is a multi-selection, multiple result files will be generated at the same time, so it should be the path of a folder, and then all the results in this folder will be sent to the user. After the sending is completed Delete Files)
 ```
 
-###miRNA-lncRNA:
+### miRNA-lncRNA:
 ```
 pythonGFAP-linux.py
 -na
