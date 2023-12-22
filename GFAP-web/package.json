@@ -1,0 +1,25 @@
+{
+  "name": "GFAP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungacy/GFAP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ungacy/GFAP/issues"
+  },
+  "homepage": "https://github.com/ungacy/GFAP#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "increase-memory-limit": "^1.0.7",
+    "js-md5": "^0.7.3"
+  }
+}
